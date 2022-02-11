@@ -74,7 +74,6 @@ def usart_sent():
         # text1.insert(END, result)
         # text1.see(END)
 
-
     else:
         if v.get():
             text1.insert(END, '文件没有导入，请选择并确认\n')
